@@ -11,8 +11,6 @@ namespace MyCalculator
         static void Main(string[] args)
         {
 
-
-         
             bool continueCase = true;
             Console.WriteLine("Choose option:");
  
